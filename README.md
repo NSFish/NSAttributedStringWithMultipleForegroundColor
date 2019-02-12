@@ -1,4 +1,4 @@
-##Using NSAttributedString with multiple foregroundColor makes the text in UILabel look lower than expected
+## Using NSAttributedString with multiple foregroundColor makes the text in UILabel look lower than expected ##
 
 [Stack Overflow](https://stackoverflow.com/questions/54647527/using-nsattributedstring-with-multiple-foregroundcolor-makes-the-text-in-uilabel)
 
