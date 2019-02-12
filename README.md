@@ -51,6 +51,5 @@ The only difference here is the foregroundColor at range(0, 5) changed to white.
 
 I'm not very familiar with TextKit, but I do know the position of the text inside a UILabel is supposed to be decided by baselineOffset, or at least something, anything, but the foregroundColor of the text...
 
-
-[1]: https://i.stack.imgur.com/TUitU.png
-[2]: https://i.stack.imgur.com/ggCrB.png
+[1]: https://i.stack.imgur.com/hYZUi.png
+[2]: https://i.stack.imgur.com/fnLyG.png
